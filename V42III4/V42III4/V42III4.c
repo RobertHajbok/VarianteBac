@@ -5,7 +5,7 @@ numarul de aparitii pentru fiecare valoare(0-99). Prelucrarea s-a facut odata cu
 #include<conio.h>
 int main()
 {
-	int n, x, i, a[100] = {};
+	int n, x, i, a[100] = {0};
 	FILE* f;
 	f = fopen("numere.txt", "r");
 	fscanf(f, "%d", &n);

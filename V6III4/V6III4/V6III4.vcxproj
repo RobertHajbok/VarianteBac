@@ -78,6 +78,9 @@
   <ItemGroup>
     <ClCompile Include="V6III4.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="BAC.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

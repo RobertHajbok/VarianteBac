@@ -78,6 +78,10 @@
   <ItemGroup>
     <ClCompile Include="V70III4.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Debug\V70III4.vcxproj.FileListAbsolute.txt" />
+    <Text Include="NUMERE.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

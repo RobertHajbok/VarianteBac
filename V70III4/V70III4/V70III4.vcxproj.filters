@@ -19,4 +19,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="NUMERE.txt" />
+    <Text Include="Debug\V70III4.vcxproj.FileListAbsolute.txt" />
+  </ItemGroup>
 </Project>

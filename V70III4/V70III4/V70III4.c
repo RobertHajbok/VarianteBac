@@ -2,11 +2,11 @@
 in ordine crescatoare, deci cele egale sunt dispuse pe pozitii consecutive in fisier.*/
 #include<stdio.h>
 #include<conio.h>
-FILE* f = fopen("NUMERE.TXT", "r");
 int n, i, j, max;
 long x, y, k;
 int main()
 {
+	FILE* f = fopen("NUMERE.TXT", "r");
 	fscanf(f, "%d", &n);
 	max = 0;
 	fscanf(f, "%d", &x);
