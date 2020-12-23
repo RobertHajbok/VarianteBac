@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "V47II5", "V47II5\V47II5.vcxproj", "{4FBD0581-B19B-40A9-9C38-814396C39EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBD0581-B19B-40A9-9C38-814396C39EC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FBD0581-B19B-40A9-9C38-814396C39EC8}.Debug|Win32.Build.0 = Debug|Win32
+		{4FBD0581-B19B-40A9-9C38-814396C39EC8}.Release|Win32.ActiveCfg = Release|Win32
+		{4FBD0581-B19B-40A9-9C38-814396C39EC8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
